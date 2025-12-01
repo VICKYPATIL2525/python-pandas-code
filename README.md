@@ -1,5 +1,5 @@
 # Pandas Data Science Practice - Titanic Dataset
-# ok this is the git push
+
 A beginner-friendly guide to data cleaning, exploration, and feature engineering using Python Pandas.
 
 ## Project Overview
